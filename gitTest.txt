@@ -3,3 +3,8 @@ The location of the file is Desktop/testGit
 This change is made in the main branch.
 Just before rebase.
 This change is made in the newBranch
+
+
+
+
+Line 5 from main
