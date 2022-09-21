@@ -1,0 +1,1 @@
+This is the "AddedFromRemote" file, which was added to remote repo directly via GitHub.
